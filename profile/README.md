@@ -21,3 +21,5 @@ En vertu d’un mandat légal, nous initions, coordonnons et évaluons des mesur
 Mit gesetzlichem Auftrag initiieren, koordinieren und evaluieren wir Massnahmen zur Förderung der Gesundheit und zur Verhütung von Krankheiten. Wir informieren, befähigen und motivieren Menschen, die eigene Lebensweise gesund zu gestalten. Zudem zielt unser Engagement auf das Stärken von gesellschaftlichen Rahmenbedingungen ab, die diesen Prozess unterstützen. Langfristig streben wir an, die Gesundheit der Schweizer Bevölkerung messbar zu verbessern.
 
 Su incarico della Confederazione avviamo, coordiniamo e valutiamo misure atte a promuovere la salute e a prevenire le malattie. Intendiamo informare le persone, metterle nelle condizioni e motivarle a gestire la propria vita in modo sano. Inoltre, il nostro impegno si prefigge di rafforzare le condizioni quadro sociali a sostegno di questo processo. A lungo termine miriamo a migliorare in modo misurabile la salute della popolazione svizzera.
+
+more at : https://promotionsante.ch/prevention-dans-le-domaine-des-soins
