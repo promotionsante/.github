@@ -11,8 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 **Les codes et exemples mis à disposition le sont sans aucunes garanties.
-Il convient avant toute réutilisation partielles ou totales de s'assurer des licences spécifiques, la Fondation ne fournit aucune garantie, ni soutien technique. -- The codes and examples made available are provided without warranty of any kind.
-Before any partial or total reuse, it is advisable to check the specific licenses. The Foundation provides no guarantee or technical support.--Die zur Verfügung gestellten Codes und Beispiele werden ohne jegliche Garantien zur Verfügung gestellt.
+Il convient avant toute réutilisation partielles ou totales de s'assurer des licences spécifiques, la Fondation ne fournit aucune garantie, ni soutien technique.**
+
+**The codes and examples made available are provided without warranty of any kind.
+Before any partial or total reuse, it is advisable to check the specific licenses.**
+
+**The Foundation provides no guarantee or technical support.--Die zur Verfügung gestellten Codes und Beispiele werden ohne jegliche Garantien zur Verfügung gestellt.
 Vor jeder teilweisen oder vollständigen Weiterverwendung sollten Sie sich über die spezifischen Lizenzen informieren. Die Stiftung bietet keine Garantien oder technische Unterstützung.**
 
 
